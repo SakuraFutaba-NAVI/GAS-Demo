@@ -15,6 +15,8 @@ AI：行为树、AI 控制器
 
 1. GAS 核心体系
 纯 C++ 实现能力系统、属性系统、能力标签系统三大核心模块，蓝图仅用于数据配置与可视化调试
+<img width="1920" height="1080" alt="GA_GAS_Attack 2026_06_29 17_35_10" src="https://github.com/user-attachments/assets/8e04b571-985b-4e21-9c76-ea6afd98df96" />
+<img width="1920" height="1080" alt="GA_GAS_Attack 2026_06_29 17_35_37" src="https://github.com/user-attachments/assets/198e4f2e-8865-400c-b42d-04f12618aae0" />
 
 2. 近战连击系统
 基于 GameplayTag 实现多段普攻连击，支持窗口期判定，连击节奏可控
